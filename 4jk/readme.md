@@ -8,5 +8,5 @@ subtitles.txt : subtitles without timestamps
 
 subtitles.srt : subtitles with timestamps
 
-chapters-by-lex.txt : chatper titles and timestamps made by Lex himself
+chapters-by-lex.txt : chatper titles and timestamps made by Lex himself, not by AI - to see the perfect chapter split looks like
 
